@@ -1,0 +1,31 @@
+- title: "Drainage and lifetime of thin liquid films: the role of salinity and convective evaporation"
+  image: "assets/img/nacl176g_illustration.png"
+  description: "Experimental study of thin liquid films in the presence of salt. We show that the drainage is unaffected by the salinity of the solution or the humidity of the air surrounding the film while the lifetime is controlled by evaporative rate."
+  reference: "Aurégan, T., & Deike, L. (2024)."
+  url: https://arxiv.org/abs/2411.03908
+
+
+- title: "Improving propulsive efficiency using bio-inspired intermittent locomotion"
+  image: "assets/img/interm-hero.png"
+  description: "Experiments investigating Burst and Coast locomotion in the context of propeller propulsion. Experiments show a reduction of the energetic cost of locomotion of 24% for a given velocity, and a model allows us to find the minimal drag reduction for intermittent locomotion to be interesting."
+  reference: "Aurégan, T., Lemoine, M., Thiria, B., & Courrech du Pont, S. (2024)."
+  url: https://doi.org/10.48550/arXiv.2408.14429)
+
+- title: "Shape reconfiguration for underwater propeller efficiency improvement"
+  image: "assets/img/chordwise-hero.png"
+  description: "How a propeller with flexible blades can passively adapt to a change of external conditions to remain optimally efficient. With a combination of experiments and scaling law, we demonstrate how this techhnology can be implemented."
+  reference: "Aurégan, T., Thiria, B., & Courrech du Pont, S. (2024). **Physical Review Fluids**, 9(7), 074402."
+  url: https://doi.org/10.1103/PhysRevFluids.9.074402
+
+
+- title: "Scaling the thrust and deformations of a rotor with flexible blades"
+  image: "assets/img/full-flex-hero.png"
+  description: "Small scale experiments with a propeller with fully flexible blades. We record and explain the non-linear deformations at tip of the blades."
+  reference: "Aurégan, T., Thiria, B., & Courrech du Pont, S. (2023). **Physical Review Fluids**, 8(4), 044401."
+  url: https://doi.org/10.1103/PhysRevFluids.8.044401
+
+- title: "Flow past a sphere translating along the axis of a rotating fluid: revisiting numerically Maxworthy's experiments"
+  image: "assets/img/sphere-hero.gif"
+  description: "Direct numerical simulations of the flow around a sphere translating along the axis of a rotating fluid. This study highlights the importance of axial confinement on the drag force on the sphere."
+  reference: "Aurégan, T., Bonometti, T., & Magnaudet, J. (2023). **Journal of Fluid Mechanics**, 967, A25."
+  url: https://doi.org/10.1017/jfm.2023.469
