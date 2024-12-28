@@ -15,4 +15,4 @@ My work focuses on fluid mechanics, with a particular interest in interface dyna
 - [Linkedin](https://www.linkedin.com/in/tristan-auregan)
 - [Google scholar](https://scholar.google.com/citations?user=-2ss_U8AAAAJ&hl=fr)
 
-Contact me via [mail](mailto:tristan.auregan@gmail.com).
+Contact me via [mail](mailto:tristan.auregan@gmail.com). 
