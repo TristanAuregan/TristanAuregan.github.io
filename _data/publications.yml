@@ -8,7 +8,7 @@
 - title: "Improving propulsive efficiency using bio-inspired intermittent locomotion"
   image: "assets/img/interm-hero.png"
   description: "Experiments investigating Burst and Coast locomotion in the context of propeller propulsion. Experiments show a reduction of the energetic cost of locomotion of 24% for a given velocity, and a model allows us to find the minimal drag reduction for intermittent locomotion to be interesting."
-  reference: "Aurégan, T., Lemoine, M., Thiria, B., & Courrech du Pont, S. (2024)."
+  reference: "Aurégan, T., Lemoine, M., Thiria, B., & Courrech du Pont, S. (2024). **Journal of the Royal Society Interface**, 22:20240624"
   url: https://doi.org/10.1098/rsif.2024.0624
 
 - title: "Shape reconfiguration for underwater propeller efficiency improvement"
